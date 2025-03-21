@@ -1,5 +1,5 @@
 
-const uri = "";
+const uri = "mongodb://127.0.0.1:27017/vulnerable_db";
 const express = require("express");
 const mongoose = require("mongoose");
 const cors = require("cors");
